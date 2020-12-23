@@ -1,5 +1,5 @@
 class Dog 
-  dog.new
+  fido = dog.new
   dog.new
   dog.new
 end 
